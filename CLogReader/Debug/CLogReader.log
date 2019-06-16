@@ -1,0 +1,5 @@
+﻿  CLogReader.cpp
+  LogReaderConsole.cpp
+  Создание кода...
+  D:\GitFolder\CLogReader\CLogReader\CLogReader.cpp(201) : warning C4715: CLogReader::compareStrings: значение возвращается не при всех путях выполнения
+  CLogReader.vcxproj -> D:\GitFolder\CLogReader\Debug\CLogReader.exe
